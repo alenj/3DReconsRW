@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TestGeoEst</folder>
+	<filename>9_28.16431133534867_-97.0113386341318_2011-05_90.jpg</filename>
+	<path>/home/ali/PycharmProjects/TestGeoEst/9_28.16431133534867_-97.0113386341318_2011-05_90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>891</ymin>
+			<xmax>1518</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+</annotation>

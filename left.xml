@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TestSterio</folder>
+	<filename>left.JPG</filename>
+	<path>/home/ali/PycharmProjects/TestSterio/left.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1249</xmin>
+			<ymin>576</ymin>
+			<xmax>2218</xmax>
+			<ymax>1202</ymax>
+		</bndbox>
+	</object>
+</annotation>
